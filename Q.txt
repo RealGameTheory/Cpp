@@ -1,0 +1,32 @@
+ Q1.)
+Class called student 
+all variables Private 
+constructor for roll no. format
+in Private:
+Roll no.
+Name 
+Date of birth
+Gender
+address
+sgpa[8] 
+cgpa
+
+
+Create student via
+
+UpdateName()
+UodateAddr()
+Publishscgpa(sem 1, sem2,  .....)
+Publishcgpa() --> calculate cgpa
+ Q2.)
+class book{
+    string authorname;
+    string bookname;
+    string edition;
+    string yop;
+    int ISBNno;
+    string Price;
+};
+Public:
+    displayDetails();
+    Book(___________________)
